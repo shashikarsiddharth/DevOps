@@ -21,4 +21,4 @@ Foundations of:
    - Embracing Observability Techniques 🔍
    - Crafting Strategies for Cost Optimization 💰
 
-4: To facilitate understanding, I will employ the ADEPT methodology for explanations and guidance 🧠.
+4: To facilitate understanding, I will employ the [ADEPT](https://betterexplained.com/articles/adept-method/) methodology for explanations and guidance 🧠.
