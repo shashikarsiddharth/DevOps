@@ -13,12 +13,10 @@ Foundations of:
    - Mastering the Linux Operating System 🐧
    - Navigating Networking Principles 🔗
    - Unveiling Version Control Systems 🔄
-   - Navigating Docker & Docker-compose 🐳
+   - Containers Docker & Docker-compose 🐳
+   - Navigating the World of Kubernetes 🌐
    - Grasping Cloud Computing Basics ☁️
    - Harnessing Infrastructure as Code ⚙️
    - Unleashing CI/CD Practices 🛠️
-   - Navigating the World of Kubernetes 🌐
    - Embracing Observability Techniques 🔍
    - Crafting Strategies for Cost Optimization 💰
-
-4: To facilitate understanding, I will employ the [ADEPT](https://betterexplained.com/articles/adept-method/) methodology for explanations and guidance 🧠.
